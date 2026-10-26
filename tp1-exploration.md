@@ -244,5 +244,5 @@ et notre route de création devra elle aussi répondre 201.
 
 
 
-URL du dépôt : https://github.com/<ton-compte>/adminapi
+URL du dépôt : https://github.com/<omardami7>/adminapi
 
